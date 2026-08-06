@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lomituassefa/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0012-integer-to-roman](https://github.com/Lomituassefa/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Lomituassefa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lomituassefa/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lomituassefa/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
