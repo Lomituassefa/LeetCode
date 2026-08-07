@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Lomituassefa/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Lomituassefa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Lomituassefa/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Lomituassefa/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lomituassefa/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Lomituassefa/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
