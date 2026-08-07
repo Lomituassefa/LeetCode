@@ -46,6 +46,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lomituassefa/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Lomituassefa/LeetCode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Lomituassefa/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Lomituassefa/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
