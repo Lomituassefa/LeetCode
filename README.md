@@ -29,6 +29,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lomituassefa/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
+| [1017-convert-to-base-2](https://github.com/Lomituassefa/LeetCode/tree/master/1017-convert-to-base-2) |
 ## String
 |  |
 | ------- |
