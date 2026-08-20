@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Lomituassefa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Lomituassefa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Lomituassefa/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Lomituassefa/LeetCode/tree/master/0046-permutations) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lomituassefa/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Lomituassefa/LeetCode/tree/master/0046-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
