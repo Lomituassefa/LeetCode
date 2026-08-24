@@ -30,6 +30,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lomituassefa/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Lomituassefa/LeetCode/tree/master/0069-sqrtx) |
 | [1017-convert-to-base-2](https://github.com/Lomituassefa/LeetCode/tree/master/1017-convert-to-base-2) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lomituassefa/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Lomituassefa/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Lomituassefa/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Lomituassefa/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -99,4 +101,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Lomituassefa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lomituassefa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lomituassefa/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Lomituassefa/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
