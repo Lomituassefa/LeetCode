@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Lomituassefa/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Lomituassefa/LeetCode/tree/master/0046-permutations) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lomituassefa/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0069-sqrtx](https://github.com/Lomituassefa/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Lomituassefa/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Lomituassefa/LeetCode/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Lomituassefa/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
