@@ -32,6 +32,7 @@
 | [0012-integer-to-roman](https://github.com/Lomituassefa/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lomituassefa/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Lomituassefa/LeetCode/tree/master/0412-fizz-buzz) |
 | [1017-convert-to-base-2](https://github.com/Lomituassefa/LeetCode/tree/master/1017-convert-to-base-2) |
 ## String
 |  |
@@ -41,6 +42,7 @@
 | [0014-longest-common-prefix](https://github.com/Lomituassefa/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lomituassefa/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Lomituassefa/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Lomituassefa/LeetCode/tree/master/0412-fizz-buzz) |
 ## Interactive
 |  |
 | ------- |
