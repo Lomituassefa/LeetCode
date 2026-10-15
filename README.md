@@ -43,6 +43,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lomituassefa/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Lomituassefa/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Lomituassefa/LeetCode/tree/master/0412-fizz-buzz) |
+| [1859-sorting-the-sentence](https://github.com/Lomituassefa/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lomituassefa/LeetCode/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Lomituassefa/LeetCode/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Lomituassefa/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
